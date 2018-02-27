@@ -1,0 +1,20 @@
+{
+  "name": "@geekhive/stickie",
+  "version": "1.0.0",
+  "description": "A `position: sticky` plugin to make sticky positioning work in IE11.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeekHive/stickie.git"
+  },
+  "keywords": [],
+  "author": "GeekHive",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GeekHive/stickie/issues"
+  },
+  "homepage": "https://github.com/GeekHive/stickie#readme"
+}
