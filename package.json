@@ -19,6 +19,6 @@
   "homepage": "https://github.com/GeekHive/stickie#readme",
   "dependencies": {},
   "devDependencies": {
-    "standard": "^11.0.0"
+    "standard": "^11.0.1"
   }
 }
